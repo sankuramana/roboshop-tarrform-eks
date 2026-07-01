@@ -7,7 +7,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "eks-roboshop-dev"
+    bucket = "sg-bucket-eks-cluster"
     key    = "roboshop-eks-vpc"
     region = "us-east-1"
     use_lockfile = true
