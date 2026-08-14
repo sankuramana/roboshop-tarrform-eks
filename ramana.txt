@@ -1,1 +1,1 @@
-this file intensially created for to know merge conflict
+this file intensially created for to know merge conflict in git
