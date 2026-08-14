@@ -1,1 +1,2 @@
 this file intensially created for to know merge conflict in git
+ok good
